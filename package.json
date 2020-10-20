@@ -1,0 +1,23 @@
+{
+  "name": "second_module",
+  "version": "1.0.0",
+  "description": "Second_module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zahar777/Project.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zahar777/Project/issues"
+  },
+  "homepage": "https://github.com/zahar777/Project#readme",
+  "devDependencies": {
+    "json-server": "^0.16.2"
+  },
+  "dependencies": {}
+}
