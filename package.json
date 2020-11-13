@@ -17,7 +17,9 @@
   },
   "homepage": "https://github.com/zahar777/Project#readme",
   "devDependencies": {
-    "json-server": "^0.16.2"
+    "json-server": "^0.16.2",
+    "webpack": "^5.4.0",
+    "webpack-cli": "^4.2.0"
   },
   "dependencies": {}
 }
